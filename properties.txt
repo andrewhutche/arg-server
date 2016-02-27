@@ -1,0 +1,11 @@
+name: Hub Server Network
+web-server: apache
+port: 80
+## keep port to 80 for defalt apache settings. 
+key_entities: 0
+max_players: 70
+secure_key: ejiy897ufuiey
+statcounter-id: 0
+statcounter-security: 0
+## These a renot nessacery - Just if you have StatCounter accounts that you wish to track with.
+version: 1.0 

@@ -1,0 +1,7 @@
+[ARG-AGARIO][SERVER] Server Sucessfully Started
+[ARG-AGARIO][SERVER] Server has started proxy
+[ARG-AGARIO][SERVER] Server has connected to connector
+[ARG-AGARIO][SERVER] Server has fully loaded
+[ARG-AGARIO]You can now play!
+[ARG-AGARIO]0 Key Entities were found
+[AGR-AGARIO]Please restart Agr-Agar.io and Apache
